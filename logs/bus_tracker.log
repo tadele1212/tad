@@ -1434,3 +1434,6 @@
 2025-01-07 12:43:32,547 - bus_tracker - INFO - Finding nearest stop for service: 163-1
 2025-01-07 12:43:40,966 - bus_tracker - INFO - Finding nearest stop for service: 163-1
 2025-01-07 12:43:49,984 - bus_tracker - INFO - Finding nearest stop for service: 163-1
+2025-01-07 13:41:29,914 - bus_tracker - INFO - Fetching stops for service: 160-1
+2025-01-07 13:41:31,628 - bus_tracker - INFO - Calling stored procedure Show_Stop
+2025-01-07 13:41:33,428 - bus_tracker - INFO - Retrieved 42 bus stops
